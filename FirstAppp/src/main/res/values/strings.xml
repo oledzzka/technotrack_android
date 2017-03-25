@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="true">FirstApp</string>
+    <string name="first_name" translatable="true">First Name</string>
+    <string name="surname" translatable="true">Surname</string>
+    <string name="edit_date" translatable="true">Edit Date</string>
+    <string name="button_save" translatable="true">Save</string>
+    <string name="edit" translatable="true">Edit</string>
+</resources>

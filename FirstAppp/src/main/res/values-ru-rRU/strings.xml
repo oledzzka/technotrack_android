@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="true">Первое приложение</string>
+    <string name="first_name" translatable="true">Имя</string>
+    <string name="surname" translatable="true">Фамилия</string>
+    <string name="edit_date" translatable="true">Введите Дату</string>
+    <string name="button_save" translatable="true">Сохранить</string>
+    <string name="edit" translatable="true">Редактировать</string>
+</resources>
