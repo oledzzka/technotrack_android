@@ -60,6 +60,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
-        outState.putString(JSON,jsonArray.toString());
+        if (jsonArray != null) {
+            outState.putString(JSON, jsonArray.toString());
+        }
     }
 }
